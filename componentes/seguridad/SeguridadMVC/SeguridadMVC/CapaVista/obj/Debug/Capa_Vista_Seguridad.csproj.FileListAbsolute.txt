@@ -235,4 +235,4 @@ C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguri
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vis.20F2FEB0.Up2Date
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.dll
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.pdb
-C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.FrmEmpleado.resources
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaVista\obj\Debug\Capa_Vista_Seguridad.KevinNatareno.resources

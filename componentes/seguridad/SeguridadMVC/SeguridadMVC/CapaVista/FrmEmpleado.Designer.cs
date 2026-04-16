@@ -1,6 +1,6 @@
 ﻿namespace Capa_Vista_Seguridad
 {
-    partial class FrmEmpleado
+    partial class KevinNatareno
     {
         /// <summary>
         /// Required designer variable.
@@ -44,13 +44,13 @@
             this.navegador1.SNombreTabla = null;
             this.navegador1.TabIndex = 0;
             // 
-            // FrmEmpleado
+            // KevinNatareno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1520, 622);
             this.Controls.Add(this.navegador1);
-            this.Name = "FrmEmpleado";
+            this.Name = "KevinNatareno";
             this.Text = "FrmEmpleado";
             this.ResumeLayout(false);
 

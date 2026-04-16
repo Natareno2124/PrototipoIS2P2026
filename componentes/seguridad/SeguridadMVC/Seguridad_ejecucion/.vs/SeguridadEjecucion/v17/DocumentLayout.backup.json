@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\",
+  "WorkspaceRootPath": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|c:\\practica_parcial\\componentes\\seguridad\\seguridadmvc\\seguridad_ejecucion\\prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridad_ejecucion\\prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|solutionrelative:prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2BC0366E-8B5A-4059-9CE1-6270BC30F24C}|PrototipoPrincipal\\SeguridadEjecucion.csproj|solutionrelative:prototipoprincipal\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
               "RelativeDocumentMoniker": "PrototipoPrincipal\\Form1.cs",
-              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
               "RelativeToolTip": "PrototipoPrincipal\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,10 +53,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs",
               "RelativeDocumentMoniker": "PrototipoPrincipal\\Form1.cs",
               "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PrototipoPrincipal\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\PRACTICA_PARCIAL\\componentes\\seguridad\\SeguridadMVC\\Seguridad_ejecucion\\PrototipoPrincipal\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T00:04:09.631Z"
             }

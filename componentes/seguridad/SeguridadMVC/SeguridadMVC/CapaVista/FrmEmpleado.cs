@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Capa_Vista_Seguridad
 {
-    public partial class FrmEmpleado : Form
+    public partial class KevinNatareno : Form
     {
-        public FrmEmpleado()
+        public KevinNatareno()
         {
             InitializeComponent();
             //parametros para navegador
