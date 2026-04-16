@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\ComponenteConsultasSimples\\",
+  "WorkspaceRootPath": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\ComponenteConsultasSimples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7C62E38-8FB2-4280-82EF-E5A72384323A}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas_Simples.csproj|c:\\practica_parcial\\componentes\\consultas\\componenteconsultassimples\\capa_modelo_componente_consultas\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7C62E38-8FB2-4280-82EF-E5A72384323A}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas_Simples.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\consultas\\componenteconsultassimples\\capa_modelo_componente_consultas\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7C62E38-8FB2-4280-82EF-E5A72384323A}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas_Simples.csproj|solutionrelative:capa_modelo_componente_consultas\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cls_Conexion.cs",
-              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\ComponenteConsultasSimples\\Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
-              "RelativeDocumentMoniker": "Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
-              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\ComponenteConsultasSimples\\Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
-              "RelativeToolTip": "Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T22:58:50.814Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cls_Conexion.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\ComponenteConsultasSimples\\Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
+              "RelativeDocumentMoniker": "Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\ComponenteConsultasSimples\\Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
+              "RelativeToolTip": "Capa_Modelo_Componente_Consultas\\Cls_Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:58:50.814Z",
+              "EditorCaption": ""
             }
           ]
         }

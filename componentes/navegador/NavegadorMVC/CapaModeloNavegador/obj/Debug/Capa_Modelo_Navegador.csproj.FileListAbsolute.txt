@@ -10,3 +10,9 @@ C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\D
 C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.CoreCompileInputs.cache
 C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.dll
 C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.pdb
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.dll
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.pdb
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.AssemblyReference.cache
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.CoreCompileInputs.cache
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.dll
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.pdb

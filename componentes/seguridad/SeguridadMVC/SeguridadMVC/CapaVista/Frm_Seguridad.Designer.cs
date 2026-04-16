@@ -26,6 +26,7 @@
             this.empleadosToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.perfilesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.modulosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mantenimientoEmpresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Btn_Bitacora = new System.Windows.Forms.ToolStripMenuItem();
             this.aplicaciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -40,7 +41,6 @@
             this.Btn_Cerrar_Sesion = new System.Windows.Forms.ToolStripMenuItem();
             this.Pnl_Superior = new System.Windows.Forms.Panel();
             this.Pic_Cerrar = new System.Windows.Forms.PictureBox();
-            this.mantenimientoEmpresaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.Pnl_Superior.SuspendLayout();
@@ -118,6 +118,13 @@
             this.modulosToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
             this.modulosToolStripMenuItem.Text = "Modulos";
             this.modulosToolStripMenuItem.Click += new System.EventHandler(this.modulosToolStripMenuItem_Click);
+            // 
+            // mantenimientoEmpresaToolStripMenuItem
+            // 
+            this.mantenimientoEmpresaToolStripMenuItem.Name = "mantenimientoEmpresaToolStripMenuItem";
+            this.mantenimientoEmpresaToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
+            this.mantenimientoEmpresaToolStripMenuItem.Text = "Mantenimiento Empresa";
+            this.mantenimientoEmpresaToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoEmpresaToolStripMenuItem_Click);
             // 
             // procesosToolStripMenuItem
             // 
@@ -239,12 +246,6 @@
             this.Pic_Cerrar.TabIndex = 0;
             this.Pic_Cerrar.TabStop = false;
             this.Pic_Cerrar.Click += new System.EventHandler(this.Pic_Cerrar_Click);
-            // 
-            // mantenimientoEmpresaToolStripMenuItem
-            // 
-            this.mantenimientoEmpresaToolStripMenuItem.Name = "mantenimientoEmpresaToolStripMenuItem";
-            this.mantenimientoEmpresaToolStripMenuItem.Size = new System.Drawing.Size(285, 26);
-            this.mantenimientoEmpresaToolStripMenuItem.Text = "Mantenimiento Empresa";
             // 
             // Frm_Seguridad
             // 

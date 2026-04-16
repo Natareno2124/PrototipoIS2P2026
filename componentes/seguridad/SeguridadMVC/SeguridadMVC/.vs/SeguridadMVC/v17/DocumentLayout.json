@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8338AF83-7096-4707-806E-CB3DEAF093E8}|CapaModelo\\Capa_Modelo_Seguridad.csproj|C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\capamodelo\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8338AF83-7096-4707-806E-CB3DEAF093E8}|CapaModelo\\Capa_Modelo_Seguridad.csproj|solutionrelative:capamodelo\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\capavista\\frm_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capavista\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\capavista\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{349D7BA8-A835-4401-B0B9-CA601B215E63}|CapaVista\\Capa_Vista_Seguridad.csproj|solutionrelative:capavista\\frm_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8338AF83-7096-4707-806E-CB3DEAF093E8}|CapaModelo\\Capa_Modelo_Seguridad.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\seguridad\\seguridadmvc\\seguridadmvc\\capamodelo\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8338AF83-7096-4707-806E-CB3DEAF093E8}|CapaModelo\\Capa_Modelo_Seguridad.csproj|solutionrelative:capamodelo\\cls_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,68 +58,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frm_Seguridad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs",
-              "RelativeDocumentMoniker": "CapaVista\\Frm_Seguridad.cs",
-              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaVista\\Frm_Seguridad.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:06:10.35Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Frm_Modulo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Modulo.cs",
-              "RelativeDocumentMoniker": "CapaVista\\Frm_Modulo.cs",
-              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Modulo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaVista\\Frm_Modulo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:05:56.744Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmEmpleado.cs",
-              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\FrmEmpleado.cs",
-              "RelativeDocumentMoniker": "CapaVista\\FrmEmpleado.cs",
-              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\FrmEmpleado.cs",
-              "RelativeToolTip": "CapaVista\\FrmEmpleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:02:28.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "FrmEmpleado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\FrmEmpleado.cs",
               "RelativeDocumentMoniker": "CapaVista\\FrmEmpleado.cs",
               "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\FrmEmpleado.cs [Dise\u00F1o]",
               "RelativeToolTip": "CapaVista\\FrmEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:01:42.933Z",
+              "WhenOpened": "2026-04-16T16:22:53.765Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Empresa.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Empresa.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Frm_Empresa.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Empresa.cs",
+              "RelativeToolTip": "CapaVista\\Frm_Empresa.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:22:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Empresa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Empresa.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Frm_Empresa.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Empresa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista\\Frm_Empresa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:21:21.296Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Frm_Principal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Principal.cs",
-              "RelativeDocumentMoniker": "CapaVista\\Frm_Principal.cs",
-              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Principal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaVista\\Frm_Principal.cs [Dise\u00F1o]",
+              "Title": "Frm_Seguridad.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Frm_Seguridad.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs",
+              "RelativeToolTip": "CapaVista\\Frm_Seguridad.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAowKwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T16:05:33.49Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-04-16T16:13:03.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Cls_Conexion.cs",
               "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaModelo\\Cls_Conexion.cs",
               "RelativeDocumentMoniker": "CapaModelo\\Cls_Conexion.cs",
@@ -125,6 +118,28 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T23:18:03.476Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Seguridad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Frm_Seguridad.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Seguridad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista\\Frm_Seguridad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:06:10.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Principal.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Frm_Principal.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\seguridad\\SeguridadMVC\\SeguridadMVC\\CapaVista\\Frm_Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista\\Frm_Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T16:05:33.49Z"
             }
           ]
         }
