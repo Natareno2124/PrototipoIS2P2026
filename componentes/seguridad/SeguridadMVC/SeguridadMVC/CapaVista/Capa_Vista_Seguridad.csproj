@@ -236,6 +236,12 @@
       <DependentUpon>Reporte_empleado.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Reporte_Empresa1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reporte_Empresa.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Reporte_modulo.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -346,6 +352,10 @@
     <EmbeddedResource Include="Reporte_empleado.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>Reporte_empleado.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte_Empresa.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Reporte_Empresa1.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reporte_modulo.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>

@@ -160,6 +160,6 @@ C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVi
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.Properties.Resources.resources
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.csproj.GenerateResource.cache
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.csproj.CoreCompileInputs.cache
-C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vis.1B3D9FD0.Up2Date
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.dll
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.pdb
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\navegador\NavegadorMVC\CapaVistaNavegador\obj\Debug\Capa_Vista_Navegador.csproj.CopyComplete
