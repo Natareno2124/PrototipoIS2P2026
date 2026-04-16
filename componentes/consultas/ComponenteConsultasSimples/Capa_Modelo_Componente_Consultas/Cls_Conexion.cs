@@ -12,7 +12,7 @@ namespace Capa_Modelo_Componente_Consultas
         public OdbcConnection conexion()
         {
             //creacion de la conexion via ODBC
-            OdbcConnection con = new OdbcConnection("Dsn=bd_PRACTICA");
+            OdbcConnection con = new OdbcConnection("Dsn=bd_hotel");
             try
             {
                 con.Open();

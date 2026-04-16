@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PRACTICA_PARCIAL\\componentes\\reporteador\\reporteador\\",
+  "WorkspaceRootPath": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\reporteador\\reporteador\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3C574DD-C836-4912-80E7-EA2AEB75CC39}|Capa_Modelo_Reporteador\\Capa_Modelo_Reporteador.csproj|c:\\practica_parcial\\componentes\\reporteador\\reporteador\\capa_modelo_reporteador\\cls_conexion_reporteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C3C574DD-C836-4912-80E7-EA2AEB75CC39}|Capa_Modelo_Reporteador\\Capa_Modelo_Reporteador.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\reporteador\\reporteador\\capa_modelo_reporteador\\cls_conexion_reporteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3C574DD-C836-4912-80E7-EA2AEB75CC39}|Capa_Modelo_Reporteador\\Capa_Modelo_Reporteador.csproj|solutionrelative:capa_modelo_reporteador\\cls_conexion_reporteador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cls_Conexion_Reporteador.cs",
-              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\reporteador\\reporteador\\Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
-              "RelativeDocumentMoniker": "Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
-              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\reporteador\\reporteador\\Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
-              "RelativeToolTip": "Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T22:58:07.069Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cls_Conexion_Reporteador.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\reporteador\\reporteador\\Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
+              "RelativeDocumentMoniker": "Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\reporteador\\reporteador\\Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
+              "RelativeToolTip": "Capa_Modelo_Reporteador\\Cls_Conexion_Reporteador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:58:07.069Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -172,6 +172,6 @@ C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguri
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\PrototipoPrincipal.Properties.Resources.resources
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\SeguridadEjecucion.csproj.GenerateResource.cache
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\SeguridadEjecucion.csproj.CoreCompileInputs.cache
-C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\Segurida.DA4ECCE8.Up2Date
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\PrototipoPrincipal.exe
 C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\PrototipoPrincipal.pdb
+C:\PrototipoIS2P2026\PrototipoIS2P2026\componentes\seguridad\SeguridadMVC\Seguridad_ejecucion\PrototipoPrincipal\obj\Debug\SeguridadEjecucion.csproj.CopyComplete

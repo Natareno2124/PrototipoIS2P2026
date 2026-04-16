@@ -419,5 +419,11 @@ namespace Capa_Vista_Seguridad
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void mantenimientoEmpresaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+          EmpresaKevinNatareno m = new EmpresaKevinNatareno();
+          m.ShowDialog();
+        }
     }
 }

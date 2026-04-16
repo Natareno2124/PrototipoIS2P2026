@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\Componente_Consultas\\",
+  "WorkspaceRootPath": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\Componente_Consultas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45813C07-56E9-4CD3-8CDA-3AFB057A7DB0}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas.csproj|c:\\practica_parcial\\componentes\\consultas\\componente_consultas\\capa_modelo_componente_consultas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45813C07-56E9-4CD3-8CDA-3AFB057A7DB0}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas.csproj|c:\\prototipois2p2026\\prototipois2p2026\\componentes\\consultas\\componente_consultas\\capa_modelo_componente_consultas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45813C07-56E9-4CD3-8CDA-3AFB057A7DB0}|Capa_Modelo_Componente_Consultas\\Capa_Modelo_Componente_Consultas.csproj|solutionrelative:capa_modelo_componente_consultas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\Componente_Consultas\\Capa_Modelo_Componente_Consultas\\Conexion.cs",
+              "DocumentMoniker": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\Componente_Consultas\\Capa_Modelo_Componente_Consultas\\Conexion.cs",
               "RelativeDocumentMoniker": "Capa_Modelo_Componente_Consultas\\Conexion.cs",
-              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\consultas\\Componente_Consultas\\Capa_Modelo_Componente_Consultas\\Conexion.cs",
+              "ToolTip": "C:\\PrototipoIS2P2026\\PrototipoIS2P2026\\componentes\\consultas\\Componente_Consultas\\Capa_Modelo_Componente_Consultas\\Conexion.cs",
               "RelativeToolTip": "Capa_Modelo_Componente_Consultas\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T22:59:29.034Z",
               "EditorCaption": ""
