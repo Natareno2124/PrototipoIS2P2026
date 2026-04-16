@@ -1,0 +1,12 @@
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.dll
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.pdb
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.dll
+C:\PRACTICA_PARCIAL\componentes\seguridad\SeguridadMVC\SeguridadMVC\CapaModelo\obj\Debug\Capa_Modelo_Seguridad.pdb

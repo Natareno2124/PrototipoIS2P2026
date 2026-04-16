@@ -1,0 +1,12 @@
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.dll
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.pdb
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.AssemblyReference.cache
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.CoreCompileInputs.cache
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.dll
+C:\Ing_Soft_Navegador\is2k26pf\codigo\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.pdb
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.dll
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\bin\Debug\Capa_Modelo_Navegador.pdb
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.AssemblyReference.cache
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.csproj.CoreCompileInputs.cache
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.dll
+C:\PRACTICA_PARCIAL\componentes\navegador\NavegadorMVC\CapaModeloNavegador\obj\Debug\Capa_Modelo_Navegador.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A13A61-72FC-4A67-B1AC-6F08C0FD4981}|CapaVistaNavegador\\Capa_Vista_Navegador.csproj|C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\capavistanavegador\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A13A61-72FC-4A67-B1AC-6F08C0FD4981}|CapaVistaNavegador\\Capa_Vista_Navegador.csproj|solutionrelative:capavistanavegador\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44573EC3-7012-4091-81F0-4A5B47C32285}|CapaModeloNavegador\\Capa_Modelo_Navegador.csproj|c:\\practica_parcial\\componentes\\navegador\\navegadormvc\\capamodelonavegador\\cls_conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44573EC3-7012-4091-81F0-4A5B47C32285}|CapaModeloNavegador\\Capa_Modelo_Navegador.csproj|solutionrelative:capamodelonavegador\\cls_conexionmysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A13A61-72FC-4A67-B1AC-6F08C0FD4981}|CapaVistaNavegador\\Capa_Vista_Navegador.csproj|C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\capavistanavegador\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6A13A61-72FC-4A67-B1AC-6F08C0FD4981}|CapaVistaNavegador\\Capa_Vista_Navegador.csproj|solutionrelative:capavistanavegador\\navegador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cls_ConexionMYSQL.cs",
+              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaModeloNavegador\\Cls_ConexionMYSQL.cs",
+              "RelativeDocumentMoniker": "CapaModeloNavegador\\Cls_ConexionMYSQL.cs",
+              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaModeloNavegador\\Cls_ConexionMYSQL.cs",
+              "RelativeToolTip": "CapaModeloNavegador\\Cls_ConexionMYSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T22:57:10.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Navegador.cs",
+              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaVistaNavegador\\Navegador.cs",
+              "RelativeDocumentMoniker": "CapaVistaNavegador\\Navegador.cs",
+              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaVistaNavegador\\Navegador.cs",
+              "RelativeToolTip": "CapaVistaNavegador\\Navegador.cs",
+              "ViewState": "AgIAACcCAAAAAAAAAAD4vzECAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:35:55.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Navegador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaVistaNavegador\\Navegador.cs",
+              "RelativeDocumentMoniker": "CapaVistaNavegador\\Navegador.cs",
+              "ToolTip": "C:\\PRACTICA_PARCIAL\\componentes\\navegador\\NavegadorMVC\\CapaVistaNavegador\\Navegador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVistaNavegador\\Navegador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T01:35:52.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
